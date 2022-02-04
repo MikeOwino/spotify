@@ -3,3 +3,5 @@
 
 [![committers.top badge](https://user-badge.committers.top/kenya/MikeOwino.svg)](https://user-badge.committers.top/kenya/USERNAME)
 
+![commits.top ranking](http://biego.tech/commits?user=MikeOwino&country=kenya)
+
